@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Xmarmalade/alisthelper/commit/6d7e1acb86a5c67bcf86d99bc6034f130b1d04c2",
       "git:hexsha": "6d7e1acb86a5c67bcf86d99bc6034f130b1d04c2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "beta"
     },
     {
