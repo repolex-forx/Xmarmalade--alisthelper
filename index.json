@@ -1,0 +1,11 @@
+{
+  "org": "Xmarmalade",
+  "repo": "alisthelper",
+  "versions": [
+    {
+      "commit": "6d7e1acb86a5c67bcf86d99bc6034f130b1d04c2",
+      "tag": "beta",
+      "parsed_at": "2026-11-10T07:46:51.891694+00:00"
+    }
+  ]
+}
